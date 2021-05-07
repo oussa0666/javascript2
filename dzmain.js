@@ -1,5 +1,5 @@
    var sourcelinkNews=  'http://showplustv.pro:80/live/Showplus2022/22355002/46771.m3u8'
-    var sourcelinkHD1Pr= 'http://showplustv.pro:80/live/Showplus2022/22355002/17976.m3u8';
+    var sourcelinkHD1Pr= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1678.m3u8';
     var sourcelinkHD2Pr= 'http://showplustv.pro:80/live/Showplus2022/22355002/17975.m3u8';
     var sourcelinkHD3Pr= 'http://showplustv.pro:80/live/Showplus2022/22355002/17974.m3u8';
   
