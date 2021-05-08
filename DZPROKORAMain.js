@@ -47,6 +47,31 @@ $my_menu = $("div#_3krzVwodTESsJBWuAhp4OI :eq(0)").html(), $("._2VrSD8KvILGzJTS-
 
 
 
+<!-- Scroll to Player onclick on channels start -->
+function myFunction() {
+  var elmnt = document.getElementById("playeronline");
+  elmnt.scrollIntoView();
+	
+
+<!-- Toggle channels start -->
+	
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i &lt; coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}	
+	
+	
+	
 <!-- Scrollable channels start -->
 
 $(document).ready(function () {
