@@ -47,10 +47,7 @@ $my_menu = $("div#_3krzVwodTESsJBWuAhp4OI :eq(0)").html(), $("._2VrSD8KvILGzJTS-
 
 
 
-<!-- Scroll to Player onclick on channels start -->
-function myFunction() {
-  var elmnt = document.getElementById("playeronline");
-  elmnt.scrollIntoView();
+
 	
 
 <!-- Toggle channels start -->
@@ -71,28 +68,7 @@ for (i = 0; i &lt; coll.length; i++) {
 }	
 	
 	
-	
-<!-- Scrollable channels start -->
 
-$(document).ready(function () {
-    $('#ScrollDown').click(function () {
-        $('.gwu9EtJa3I6ff7oLD97Ty').animate({
-            scrollTop: '+=100'
-        }, 100);
-    });
-});
-
-
-
-
-$(document).ready(function () {
-    $('#ScrollUp').click(function () {
-        $('.gwu9EtJa3I6ff7oLD97Ty').animate({
-            scrollTop: '-=100'
-        }, 100);
-    });
-});
-	  
 
 
 <!-- Collapsible channels start -->
@@ -299,4 +275,36 @@ $(document)[abdoutech_0x5686(abdoutech_0x1fe2("0x8a"), abdoutech_0x1fe2("0x8b"))
             window[abdoutech_0x5686(abdoutech_0x1fe2("0x137"), abdoutech_0x1fe2("0x12e"))][abdoutech_0x5686("0x82", abdoutech_0x1fe2("0xe3"))] = abdoutech_0x5686(abdoutech_0x1fe2("0x138"), abdoutech_0x1fe2("0x136"))
         }, 2e3), $(abdoutech_0x5686(abdoutech_0x1fe2("0x139"), abdoutech_0x1fe2("0xf3")))[abdoutech_0x5686(abdoutech_0x1fe2("0x13a"), abdoutech_0x1fe2("0xbe"))](abdoutech_0x5686(abdoutech_0x1fe2("0x13b"), abdoutech_0x1fe2("0xb6")))), e[abdoutech_0x1fe2("0x13c")](abdoutech_0x5686(abdoutech_0x1fe2("0x13d"), abdoutech_0x1fe2("0xad")), abdoutech_0x5686("0x88", abdoutech_0x1fe2("0xa6"))), e[abdoutech_0x1fe2("0x13c")](abdoutech_0x5686(abdoutech_0x1fe2("0x13e"), abdoutech_0x1fe2("0xd8")), abdoutech_0x5686(abdoutech_0x1fe2("0x13f"), abdoutech_0x1fe2("0xb6"))), e[abdoutech_0x5686(abdoutech_0x1fe2("0x140"), abdoutech_0x1fe2("0xc8"))](abdoutech_0x5686(abdoutech_0x1fe2("0x141"), abdoutech_0x1fe2("0xf0")), abdoutech_0x1fe2("0xbc")), e[abdoutech_0x5686(abdoutech_0x1fe2("0x142"), "aD]R")] = "عبدو تكنولوجي"
     }
+});
+
+
+
+
+
+<!-- Scroll to Player onclick on channels start -->
+function myFunction() {
+  var elmnt = document.getElementById("playeronline");
+  elmnt.scrollIntoView();
+}
+
+
+<!-- Scrollable channels start -->
+
+$(document).ready(function () {
+    $('#ScrollDown').click(function () {
+        $('.gwu9EtJa3I6ff7oLD97Ty').animate({
+            scrollTop: '+=100'
+        }, 100);
+    });
+});
+
+
+
+
+$(document).ready(function () {
+    $('#ScrollUp').click(function () {
+        $('.gwu9EtJa3I6ff7oLD97Ty').animate({
+            scrollTop: '-=100'
+        }, 100);
+    });
 });
