@@ -1,22 +1,22 @@
 
 
 var sourcelinkNews=  'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/2673.m3u8'
-    var sourcelinkHD1Pr= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1678.m3u8';
+    var sourcelinkHD1Pr= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/10.m3u8';
     var sourcelinkHD2Pr= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/9.m3u8';
     var sourcelinkHD3Pr= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/8.m3u8';
   
     var sourcelinkHD1= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1675.m3u8';
     var sourcelinkHD2= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1674.m3u8';
-    var sourcelinkHD3= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1673.m3u8';
-    var sourcelinkHD4= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1672.m3u8';
-    var sourcelinkHD5= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1671.m3u8';
-    var sourcelinkHD6= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1670.m3u8';
-    var sourcelinkHD7= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1669.m3u8';
-    var sourcelinkHD8= 'http://server.shamelforyou.com:8080/live/Ahmad1898/0541783764/21063.m3u8';
-    var sourcelinkHD9= 'http://server.shamelforyou.com:8080/live/Ahmad1898/0541783764/21062.m3u8';
-    var sourcelinkHD10= 'http://live.ip1v.com:25461/live/saeed/2468/34228.m3u8';
-    var sourcelinkHD11= 'http://live.ip1v.com:25461/live/saeed/2468/48099.m3u8'
-    var sourcelinkHD12= 'http://server.shamelforyou.com:8080/live/Ahmad1898/0541783764/21059.m3u8';
+    var sourcelinkHD3= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1566.m3u8';
+    var sourcelinkHD4= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1665.m3u8';
+    var sourcelinkHD5= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1664.m3u8';
+    var sourcelinkHD6= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/1663.m3u8';
+    var sourcelinkHD7= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/70991.m3u8';
+    var sourcelinkHD8= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/2917.m3u8';
+    var sourcelinkHD9= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/50396.m3u8';
+    var sourcelinkHD10= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/50396.m3u8';
+    var sourcelinkHD11= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/7.m3u8'
+    var sourcelinkHD12= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/6.m3u8';
     
     
      var sourcelinkRMC1= 'http://showplustv.pro:80/live/Showplus2022/22355002/41046.m3u8';
@@ -31,14 +31,14 @@ var sourcelinkNews=  'http://cobraa.in:8000/live/150110836751/6067d961998df.1604
     var sourcelinkSKY7= 'http://live.ip1v.com:25461/saeed/2468/41717.m3u8'; 
     
    
-    var sourcelinkBTESPN= 'http://showplustv.pro:80/live/Showplus2022/22355002/55763.m3u8';
-    var sourcelinkBT1= 'http://showplustv.pro:80/live/Showplus2022/22355002/55767.m3u8';
-    var sourcelinkBT2= 'http://showplustv.pro:80/live/Showplus2022/22355002/55766.m3u8';
-    var sourcelinkBT3= 'http://showplustv.pro:80/live/Showplus2022/22355002/55765.m3u8';
+    var sourcelinkBTESPN= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/100645.m3u8';
+    var sourcelinkBT1= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/100641.m3u8';
+    var sourcelinkBT2= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/100643.m3u8';
+    var sourcelinkBT3= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/100644.m3u8';
     
    
-    var KSASPORT1= 'http://showplustv.pro:80/live/Showplus2022/22355002/46765.m3u8';
-    var KSASPORT2= 'http://showplustv.pro:80/live/Showplus2022/22355002/46764.m3u8';
+    var KSASPORT1= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/5122.m3u8';
+    var KSASPORT2= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/5123.m3u8';
     var KSASPORT3= 'http://showplustv.pro:80/live/Showplus2022/22355002/46763.m3u8';
     var KSASPORT4= 'http://showplustv.pro:80/live/Showplus2022/22355002/46762.m3u8';   
    
@@ -124,9 +124,9 @@ var sourcelinkNews=  'http://cobraa.in:8000/live/150110836751/6067d961998df.1604
     var sourcelinkLow11= 'http://sfast1.net:2052/live/maxconnecttvtest/DlZ16DPzYO/191858.m3u8';
     var sourcelinkLow12= 'http://sfast1.net:2052/live/maxconnecttvtest/DlZ16DPzYO/191859.m3u8';
 
-    var sourcelinkHD1Fr= 'http://showplustv.pro:80/live/Showplus2022/22355002/41036.m3u8';
-    var sourcelinkHD2Fr= 'http://showplustv.pro:80/live/Showplus2022/22355002/41037.m3u8';
-    var sourcelinkHD3Fr= 'http://showplustv.pro:80/live/Showplus2022/22355002/41038.m3u8';
+    var sourcelinkHD1Fr= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/4.m3u8';
+    var sourcelinkHD2Fr= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/3.m3u8';
+    var sourcelinkHD3Fr= 'http://cobraa.in:8000/live/150110836751/6067d961998df.16041/2.m3u8';
 
 
 
