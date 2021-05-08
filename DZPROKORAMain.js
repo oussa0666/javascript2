@@ -1,3 +1,30 @@
+
+<!-- Quality channels start -->
+
+$(function() {
+  $('._3cEi6AJJMeEKuoZ3Ps0LDx').click(function() {
+    $('.targetDiv').not('#div' + $(this).attr('target')).hide();
+    $('#div' + $(this).attr('target')).toggle();
+  });
+    });
+
+
+
+
+<!-- Embed channels start -->
+	
+$(function() {
+  $('._3cEi6AJJMeEKuoZ3Ps0LDx').click(function() {
+    $('.targetEmbed').not('#embed' + $(this).attr('target')).hide();
+    $('#embed' + $(this).attr('target')).toggle();
+  });
+    });
+
+
+
+
+
+
 $my_menu = $("div#_3krzVwodTESsJBWuAhp4OI :eq(0)").html(), $("._2VrSD8KvILGzJTS-jaC2HZ").html($my_menu);
       $("button._2HCvA2tG4kffXsO3MPRCPh").click(function() {
         $("._3krzVwodTESsJBWuAhp4OI").addClass("open"), $(".pos-t-t").fadeIn(300)
